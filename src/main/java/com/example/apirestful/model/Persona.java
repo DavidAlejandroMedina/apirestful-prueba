@@ -1,4 +1,4 @@
-package model;
+package com.example.apirestful.model;
 
 //import lombok.Data;
 import org.springframework.data.annotation.Id;

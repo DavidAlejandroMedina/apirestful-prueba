@@ -1,8 +1,8 @@
-package service;
+package com.example.apirestful.service;
 
-import model.Persona;
+import com.example.apirestful.model.Persona;
 import org.springframework.stereotype.Service;
-import repository.PersonaRepository;
+import com.example.apirestful.repository.PersonaRepository;
 
 import java.util.List;
 import java.util.Optional;

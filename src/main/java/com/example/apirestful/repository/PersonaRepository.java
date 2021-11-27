@@ -1,6 +1,6 @@
-package repository;
+package com.example.apirestful.repository;
 
-import model.Persona;
+import com.example.apirestful.model.Persona;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
